@@ -1,7 +1,7 @@
 # Console image
 
-Создание библиотечного архива и использование внешних библиотек JCommander и JCDP для вывода в консоль двухцветного изображения.
-Так же учимся создавать библиотечные архивы без помощи Maven.
+Creating a library archive and using external JCommander and JCDP libraries to output a two-color image to the console.<br/>
+We also learn how to create library archives without the help of Maven.
 
 
 ### Exercise 00 – Packages
